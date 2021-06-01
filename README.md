@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/muhammadhusninurfadillah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhusninurfadillah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhusninurfadillah&include_all_commits=true&count_private=true&show_icons=true&line_height=20">
+</a>
+
+<a href="https://github.com/zekhoi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhusninurfadillah&layout=compact&theme=default" />
 </a>

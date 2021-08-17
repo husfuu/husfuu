@@ -12,7 +12,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhammad
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, JavaScript
-- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
+- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, Plotly, Seaborn, Tensorflow, OpenCV
 - **Web Development**:&nbsp; Html, CSS, Bootstrap, JavaScript
 
 

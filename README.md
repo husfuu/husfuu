@@ -1,6 +1,6 @@
 ### Hey hey hey! 👋
 ### Hi, my name is Husni and I ❤️ Machine Learning
-I’m currently studying for a **Bachelor’s degree** in Mathematics at Universitas Lambung Mangkurat, Faculty of Math and Science.<br>
+I’m currently studying for a **Bachelor’s degree** in Mathematics at Lambung Mangkurat University, Faculty of Math and Science.<br>
 I’m also stuying Full Stack Web Developer at Binar Academy Bootcamp.
 
 In my spare time, I like to learn about **Data Science / Machine Learning / Deep Learning**. For more information, please visit my [projects](https://github.com/husfuu/Machine-Learning-Playground-Projects).

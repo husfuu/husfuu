@@ -1,12 +1,11 @@
-### Hey hey hey! 👋
-### Hi, my name is Husni and I ❤️ Machine Learning
+ ### Hey hey! 👋,  my name is Husni and I ❤️ Machine Learning
 I’m currently studying for a **Bachelor’s degree** in Mathematics at Lambung Mangkurat University, Faculty of Math and Science.<br>
-I’m also stuying Full Stack Web Developer at Binar Academy Bootcamp.
+I’m also stuying Fullstack Web Development at Binar Academy Bootcamp.
 
 In my spare time, I like to learn about **Data Science / Machine Learning / Deep Learning**. For more information, please visit my [projects](https://github.com/husfuu/Machine-Learning-Playground-Projects).
 
 ### Education 🎓
-- **Binar Academy** Full Stack Web Developer (2021-present)
+- **Binar Academy** Fullstack Web Development (2021-present)
 - **Bachelor's degree** Mathematics at Universitas Lambung Mangkurat (2019 - present)<br>
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhammad-husni-nur-fadillah/).<br>
 

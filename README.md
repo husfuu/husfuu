@@ -18,7 +18,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhammad
 ### Github Stats ⭐
 <p align="left">
 <a href="https://github.com/husfuu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husfuu&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husfuu&layout=compact&theme=tokyonight"/>
 </a>
 </p>

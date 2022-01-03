@@ -21,12 +21,13 @@
 
 ## **Stats**
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=calm) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=calm"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husfuu&layout=compact&theme=calm"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=calm"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husfuu&layout=compact&theme=calm"/>
 
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D"/>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- <br>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- <br> -->
 
 <!-- graph -->
 

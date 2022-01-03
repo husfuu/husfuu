@@ -29,4 +29,6 @@
 <!-- <br>
 
 <!-- graph -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=husfuu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!--  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=husfuu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->

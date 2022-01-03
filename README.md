@@ -26,5 +26,7 @@
 
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=husfuu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <br>
+
+<!-- graph -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=husfuu&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->

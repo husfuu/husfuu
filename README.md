@@ -1,6 +1,6 @@
 <div align=center>
 <h2> hello there, I'm Husni</h2>
-<p> I'm a math student, I love code and solving problems </p> 
+<p> I love code and solving problems </p> 
 
 ## **Tools and languages I use**
  

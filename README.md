@@ -21,6 +21,10 @@
 <a href=""> <img src="https://user-images.githubusercontent.com/70875733/182504183-7e132d90-f945-4790-9ed9-a45a9d4cbcee.png" width="50" alt="instagram husni"/> </a>
 
 ## Statistics
+<div align=center>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=calm"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D"/>
+<div/>
 
 <table>
 <tr>
@@ -28,12 +32,12 @@
     <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/ec4bccb0-b0e4-4ae8-bd10-b32cd2189411.svg" width="600" alt="coding activity"/> 
   <td >
   <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/f4386fbf-8170-477e-8777-91a1e6380a56.svg" width="300" alt="language activity"/>
-  <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/9b16be67-badb-4cc9-9451-75bbc5dc5f26.svg" width="300" alt="language activity"/>
   </td>
 </tr>
 </table>
 
-<figure><embed src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/9b16be67-badb-4cc9-9451-75bbc5dc5f26.svg"></embed></figure>
+![neofetch](https://user-images.githubusercontent.com/70875733/182514124-ea6e43dd-13f7-437a-b759-356d9b3e60d9.png)
+
 
 ## Experiences
 

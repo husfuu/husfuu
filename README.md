@@ -7,7 +7,7 @@
     🎯 My Goal is to Contribute to as many open source project as possible. <br><br>
     ✨ I love to create different types of contents. <br><br>
   <td >
-   <a href="https://app.daily.dev/husfuu"><img src="https://api.daily.dev/devcards/cec0aaf586a34fb78826031217fdf68d.png?r=5u5" width="300" alt="Muhammad Husni Nur Fadillah's Dev Card"/></a>
+   <a href="https://app.daily.dev/husfuu"><img src="https://api.daily.dev/devcards/cec0aaf586a34fb78826031217fdf68d.png?r=5u5" width="250" alt="Muhammad Husni Nur Fadillah's Dev Card"/></a>
   </td>
 </tr>
 </table>

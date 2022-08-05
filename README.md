@@ -40,6 +40,3 @@
 
 ## Environments
 ![neofetch](https://user-images.githubusercontent.com/70875733/182514124-ea6e43dd-13f7-437a-b759-356d9b3e60d9.png)
-
-
-## Experiences

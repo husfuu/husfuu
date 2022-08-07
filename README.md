@@ -1,4 +1,4 @@
-# Hi, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello there, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
 <tr>

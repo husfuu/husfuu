@@ -1,16 +1,5 @@
 # Hello there, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<table>
-<tr>
-  <td valign="center">
-    🌱 I am currently learning Java and also interested in Back-End Development. <br><br>
-    🎯 My Goal is to Contribute to as many open source project as possible. <br><br>
-  <td >
-   <a href="https://app.daily.dev/husfuu"><img src="https://api.daily.dev/devcards/cec0aaf586a34fb78826031217fdf68d.png?r=5u5" width="250" alt="Muhammad Husni Nur Fadillah's Dev Card"/></a>
-  </td>
-</tr>
-</table>
-
 ## Connect with me
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="50" alt="linkedin husni"/> </a>
 <a href=""> <img src="https://user-images.githubusercontent.com/70875733/182502935-65f42044-9063-47c6-bf4a-0ac09760676c.png" width="50" alt="instagram husni"/> </a>
@@ -24,15 +13,16 @@
 <tr>
   <td valign="center">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=husfuu&show_icons=true&theme=calm"/>
+  </td>
   <td>
      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D"/>
   </td>
 </tr>
 <tr>
   <td valign="center">
-    <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/f2dfd132-a02b-4d0d-b7a4-433e23a6fe78.svg" width="500" alt="coding activity"/> 
+    <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/9ff288cb-51a5-4893-8d68-c2e27483e458.svg" width="500" alt="coding activity"/> 
   <td >
-  <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/328e6505-6482-4820-aba7-bfd99a803eba.svg" width="500" alt="language activity"/>
+  <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/0c88226b-e202-41f0-95bd-f6b2caa67991.svg" width="500" alt="coding activity"/>
   </td>
 </tr>
 </table>

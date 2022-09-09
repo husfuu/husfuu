@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/husfuu"> <img src="https://user-images.githubusercontent.com/70875733/182503596-92f5c183-ef51-4fc8-a7b8-5e3b91b4d00c.svg" width="50" alt="hackerank husni"/> </a>
 <a href="https://www.polywork.com/husfuu"> <img src="https://user-images.githubusercontent.com/70875733/182504183-7e132d90-f945-4790-9ed9-a45a9d4cbcee.png" width="50" alt="polywork husni"/> </a>
 
-## Statistic
+## Statistics
 <table>
 <tr>
   <td valign="center">

@@ -1,9 +1,8 @@
-![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br><br>
+![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br>
 <b>Hello there, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 * 🖥️ I'm currently focus on backend development
 * 🚀 I'm currently work on some personal project
 * 🌟 I'm currently learn java and golang
-
 
 #### Connect with me
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>

@@ -34,12 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go               49 hrs 14 mins  ████████████████████████▒   96.70 %
-TOML             45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Bash             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git Config       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+From: 26 December 2021 - To: 21 October 2022
+
+Total Time: 373 hrs 23 mins
+
+JavaScript       99 hrs 7 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
+Go               97 hrs 21 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.07 %
+TypeScript       82 hrs 46 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Java             44 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Python           12 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+EJS              11 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->

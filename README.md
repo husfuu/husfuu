@@ -3,6 +3,8 @@
 * 🖥️ I'm currently focus on backend development
 * 🚀 I'm currently work on some personal project
 * 🌟 I'm currently learn java and golang
+* 👨‍💻 Available for hire | [personal website](https://husfuudev.vercel.app/)
+
 
 #### Connect with me
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>

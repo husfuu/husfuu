@@ -1,4 +1,4 @@
-![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br>
+<!-- ![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br> -->
 <b>Hello there, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 * 🖥️ I'm currently focus on backend development
 * 🚀 I'm currently work on some personal project

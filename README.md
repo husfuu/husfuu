@@ -5,7 +5,7 @@
 * 🌟 I'm currently learn java and golang
 * 👨‍💻 Available for hire | [personal website](https://husfuudev.vercel.app/)
 
-#### Connect with me
+#### Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>
 <a href=""> <img src="https://user-images.githubusercontent.com/70875733/182502935-65f42044-9063-47c6-bf4a-0ac09760676c.png" width="30" alt="instagram husni"/> </a>
 <a href="https://medium.com/@husfuu"> <img src="https://user-images.githubusercontent.com/70875733/182503249-623db0b3-c275-4b0b-b044-4923fc0d8c48.png" width="30" alt="medium husni"/> </a>

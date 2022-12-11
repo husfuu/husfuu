@@ -34,7 +34,7 @@
 </tr> -->
 </table>
 
-<img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/0c88226b-e202-41f0-95bd-f6b2caa67991.svg" width="300" alt="coding activity"/>
+<!-- <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/0c88226b-e202-41f0-95bd-f6b2caa67991.svg" width="300" alt="coding activity"/> -->
 
 <!--START_SECTION:waka-->
 

@@ -1,14 +1,27 @@
 <!-- ![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br> -->
 
-<img src="https://user-images.githubusercontent.com/70875733/208228361-3d66eeec-b393-42ee-a5f6-55c727d14b1d.gif" width=100>
-
-<b>Yahallo, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-* 🖥️ I'm currently focus on backend development
+<!-- <b>Yahallo, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
+<!-- * 🖥️ I'm currently focus on backend development
 * 🚀 I'm currently work on some personal project
-* 🌟 I'm currently learn java and golang
+* 🌟 I'm currently learn java and golang -->
 <!-- * 👨‍💻 Available for hire | [personal website](https://husfuudev.vercel.app/) -->
 
 
+<table border="0">
+<tr>
+  <td valign="center">
+    <img src="https://user-images.githubusercontent.com/70875733/208228361-3d66eeec-b393-42ee-a5f6-55c727d14b1d.gif" width=100>
+  </td>
+  <td>
+    <b>Yahallo, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+    
+    🖥️ I'm currently focus on backend development
+    🚀 I'm currently work on some personal project
+    🌟 I'm currently learn java and golang
+  </td>
+</table>
+  
+  
 
 #### Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>

@@ -6,7 +6,6 @@
 * 🌟 I'm currently learn java and golang -->
 <!-- * 👨‍💻 Available for hire | [personal website](https://husfuudev.vercel.app/) -->
 
-
 <table border="0">
 <tr>
   <td valign="center">
@@ -51,6 +50,8 @@
   </td>
 </tr> -->
 </table>
+
+<!-- ![counter](https://count.getloli.com/get/@husfuu-github-readme?theme=rule34) -->
 
 <!-- <img src="https://wakatime.com/share/@039bd02d-64b8-4d8b-b6c4-c5e4ceffafcf/0c88226b-e202-41f0-95bd-f6b2caa67991.svg" width="300" alt="coding activity"/> -->
 

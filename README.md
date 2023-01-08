@@ -21,7 +21,7 @@
 </table>
   
  
-![](https://komarev.com/ghpvc/?username=husfuu&style=flat&color=red)
+
 #### Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>
 <a href=""> <img src="https://user-images.githubusercontent.com/70875733/182502935-65f42044-9063-47c6-bf4a-0ac09760676c.png" width="30" alt="instagram husni"/> </a>
@@ -32,6 +32,7 @@
 <a href="https://twitter.com/tanakafuu"> <img src="https://user-images.githubusercontent.com/70875733/182503042-601096a3-f5d7-46bd-89ff-d397569fe05f.png" width="30" alt="twitter husni"/> </a>
   
 #### Statistics
+![](https://komarev.com/ghpvc/?username=husfuu&style=flat&color=red)
 <table>
 <tr>
   <td valign="center">

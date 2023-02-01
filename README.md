@@ -59,16 +59,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2021 - To: 31 January 2023
+From: 26 December 2021 - To: 01 February 2023
 
-Total Time: 814 hrs 52 mins
+Total Time: 823 hrs 54 mins
 
-Python            186 hrs 30 mins █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-Java              137 hrs 32 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-JavaScript        122 hrs 36 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Go                115 hrs 51 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-TypeScript        109 hrs 23 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-HTML              48 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Python            189 hrs 57 mins █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
+Java              137 hrs 32 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+JavaScript        122 hrs 36 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+Go                115 hrs 51 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+TypeScript        109 hrs 23 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+HTML              54 hrs 15 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->

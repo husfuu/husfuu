@@ -1,3 +1,31 @@
+<!-- <h2 align="left"> Yahallo!, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+
+<div class="container" style="width: 100%; ">
+<div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
+<img align="right" src="https://user-images.githubusercontent.com/70875733/208228361-3d66eeec-b393-42ee-a5f6-55c727d14b1d.gif" height="160px">
+</div>
+<div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
+<p align="left">Software Engineer who love to learn amazing things about tech. Currently learn in deep about Java and workn on some personal project.</p>
+</div>
+</div>
+
+<a target="_blank" href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/">
+    <img src="https://img.shields.io/badge/-nur%20muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/muhammad-husni-nur-fadillah/" alt="Linkedin Badge">     
+</a>
+
+<a target="_blank" href="https://twitter.com/tanakafuu">
+    <img src="https://img.shields.io/badge/tanakafuu-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tanakafuu" alt="Twitter Badge">
+</a>
+
+<a target="_blank" href="https://instagram.com/masnurrm/">
+    <img src="https://img.shields.io/badge/-masnurrm-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/masnurrm/" alt="Instagram Badge"></a>
+
+</br>
+
+<a target="_blank" href="https://wakatime.com/@b70526ec-e794-4d52-83e7-a9d198a8be0f">
+    <img style="height: 24px" src="https://wakatime.com/badge/user/b70526ec-e794-4d52-83e7-a9d198a8be0f.svg" alt="Wakatime Badge">
+</a>
+ -->
 <!-- ![shelter_gif](https://user-images.githubusercontent.com/70875733/190963880-5813c109-7e1a-4738-afba-316828d56148.gif) <br> -->
 
 <!-- <b>Yahallo, I'm Husni</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->

@@ -1,6 +1,7 @@
+
 <!-- <h2 align="left"> Yahallo!, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
-![tenki-no-ko](https://user-images.githubusercontent.com/70875733/228036176-f427cf74-2b17-4720-b7d2-f04f466ee4c1.gif)
+
 
 
 <div class="container" style="width: 100%; ">
@@ -52,7 +53,7 @@
 </table>
   
  
-
+<!-- ![tenki-no-ko](https://user-images.githubusercontent.com/70875733/228036176-f427cf74-2b17-4720-b7d2-f04f466ee4c1.gif) -->
 #### Let's Connect
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>
 <a href=""> <img src="https://user-images.githubusercontent.com/70875733/182502935-65f42044-9063-47c6-bf4a-0ac09760676c.png" width="30" alt="instagram husni"/> </a>

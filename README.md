@@ -1,5 +1,8 @@
 <!-- <h2 align="left"> Yahallo!, I'm Husni <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
+![tenki-no-ko](https://user-images.githubusercontent.com/70875733/228036176-f427cf74-2b17-4720-b7d2-f04f466ee4c1.gif)
+
+
 <div class="container" style="width: 100%; ">
 <div class="column" style="width: 50%; float: right; @media (max-width: 600px) {width: 100%; float: none;}">
 <img align="right" src="https://user-images.githubusercontent.com/70875733/208228361-3d66eeec-b393-42ee-a5f6-55c727d14b1d.gif" height="160px">

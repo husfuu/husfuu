@@ -11,8 +11,9 @@
 <p align="left">I am a professional software engineer who loves to learn and improve. My focus is on backend development, and I have experience using several programming languages such as Python with Django, Java with Springboot, Golang with Gin, and NodeJS.
 </div>
 </div>
+By the way
 
-* Character Development enthusiast
+* Character development enthusiast
 * I fall in love with Tenki no Ko
 * Currently work on some personal projects
 

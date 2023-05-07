@@ -8,8 +8,11 @@
 </div>
 
 <div class="column-2" style="width: 50%; float: left; @media (max-width: 600px) {width: 100%; float: none;}">
-<p align="left">I am a professional software engineer who loves to learn and improve. My focus is on backend development, and I have experience using several programming languages such as Python with Django, Java with Springboot, Golang with Gin, and NodeJS.
+<p align="left">I am a professional software engineer who loves to learn and improve. 
+<!--     and I have experience using several programming languages such as Python with Django, Java with Springboot, Golang with Gin, and NodeJS. -->
 </p>
+<p>My focus is on backend development.</p>
+    
 </div>
 By the way
 

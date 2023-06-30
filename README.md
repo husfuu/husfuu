@@ -20,6 +20,11 @@ By the way
 * I fall in love with Tenki no Ko
 * Currently work on some personal projects
 
+I like to read books and solve problems, below is the repository list
+* [hackerrank](https://github.com/husfuu/hackerank)
+* [leetcode](https://github.com/husfuu/leetcode)
+* [*exercise for programmers 57 challenge to develop your skills*](https://github.com/husfuu/exercises-for-programmers-57-challenges-golang) by Brian P.Hogan 
+
 Let's connect!
 
 <a href="https://www.linkedin.com/in/muhammad-husni-nur-fadillah/"> <img src="https://user-images.githubusercontent.com/70875733/182503151-0970f8fe-abb1-4805-a9a9-83dd89cadc45.png" width="30" alt="linkedin husni"/> </a>

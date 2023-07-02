@@ -44,7 +44,10 @@ Let's connect!
   <td>
      <img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=husfuu&theme=calm&date_format=M%20j%5B%2C%20Y%5D"/>
   </td>    
-    
+
+
+<img height="150em" src="https://github.r2v.ch/codewars?user=husfuu&stroke=%23ce9f6f"/>
+
 
 <!-- </tr>
 <tr>

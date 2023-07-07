@@ -32,7 +32,7 @@ Let's connect!
 <a href="https://medium.com/@husfuu"> <img src="https://user-images.githubusercontent.com/70875733/182503249-623db0b3-c275-4b0b-b044-4923fc0d8c48.png" width="30" alt="medium husni"/> </a>
 <a href="https://www.polywork.com/husfuu"> <img src="https://user-images.githubusercontent.com/70875733/182504183-7e132d90-f945-4790-9ed9-a45a9d4cbcee.png" width="30" alt="polywork husni"/> </a>
 <a href="https://twitter.com/tanakafuu"> <img src="https://user-images.githubusercontent.com/70875733/182503042-601096a3-f5d7-46bd-89ff-d397569fe05f.png" width="30" alt="twitter husni"/> </a>
-<a href="https://www.hackerrank.com/husfuu"> <img src="https://github.com/husfuu/husfuu/assets/70875733/d428ebd5-43ad-41ce-8074-e466eb9e7259" width="30" alt="twitter husni"/> </a>
+<a href="https://www.hackerrank.com/husfuu"> <img src="assets/oooo.webp" width="50" alt="twitter husni"/> </a>
 
 ### Statistics
 ![](https://komarev.com/ghpvc/?username=husfuu&style=flat&color=red)

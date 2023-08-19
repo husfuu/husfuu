@@ -67,7 +67,7 @@ Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2021 - To: 18 August 2023
+From: 26 December 2021 - To: 19 August 2023
 
 Total Time: 1,689 hrs 11 mins
 

@@ -46,10 +46,11 @@ Let's connect!
   </td>    
 
 
-<img height="150em" src="https://github.r2v.ch/codewars?user=husfuu&stroke=%23ce9f6f"/>
+
 
 
 <!-- </tr>
+<img height="150em" src="https://github.r2v.ch/codewars?user=husfuu&stroke=%23ce9f6f"/>
 <tr>
   <td valign="center">
      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husfuu&layout=compact&theme=calm"/>

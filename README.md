@@ -68,15 +68,15 @@ Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2021 - To: 30 November 2023
+From: 26 December 2021 - To: 01 December 2023
 
-Total Time: 2,441 hrs 7 mins
+Total Time: 2,444 hrs 7 mins
 
-Go                    542 hrs 29 mins █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-TypeScript            458 hrs 28 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
-Python                426 hrs 55 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Other                 226 hrs 20 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Java                  174 hrs 42 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Go                    542 hrs 29 mins █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+TypeScript            461 hrs 4 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Python                426 hrs 55 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Other                 226 hrs 20 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Java                  174 hrs 42 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->

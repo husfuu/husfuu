@@ -1,5 +1,5 @@
 <h3 align="left">
-    Yahallo, I'm Husni <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px">
+    Yahallo... <img src="https://raw.githubusercontent.com/masnurrm/masnurrm/master/wave.gif" width="30px">
 </h3>
 
 <div class="container" style="width: 100%; ">

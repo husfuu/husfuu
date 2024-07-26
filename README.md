@@ -68,18 +68,18 @@ Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2021 - To: 25 July 2024
+From: 26 December 2021 - To: 26 July 2024
 
-Total Time: 5,967 hrs 25 mins
+Total Time: 5,978 hrs 53 mins
 
-Go                    2,024 hrs 23 mins████████▒░░░░░░░░░░░░░░░░   33.92 %
-TypeScript            963 hrs 44 mins ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Python                673 hrs 4 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
-SQL                   592 hrs 27 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Java                  323 hrs 16 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JavaScript            259 hrs 9 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Other                 239 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-Markdown              220 hrs 35 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Go                    2,032 hrs 14 mins████████▒░░░░░░░░░░░░░░░░   33.99 %
+TypeScript            963 hrs 44 mins ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Python                673 hrs 44 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+SQL                   593 hrs 25 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Java                  323 hrs 16 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JavaScript            259 hrs 9 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Other                 239 hrs 11 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Markdown              221 hrs 56 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 HTML                  211 hrs 22 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 YAML                  78 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```

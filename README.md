@@ -68,12 +68,12 @@ Let's connect!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2021 - To: 29 March 2025
+From: 26 December 2021 - To: 30 March 2025
 
-Total Time: 8,356 hrs 35 mins
+Total Time: 8,360 hrs 24 mins
 
-Go                    3,143 hrs 59 mins█████████▒░░░░░░░░░░░░░░░   37.62 %
-TypeScript            1,486 hrs 4 mins████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Go                    3,145 hrs 48 mins█████████▒░░░░░░░░░░░░░░░   37.63 %
+TypeScript            1,487 hrs 43 mins████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
 SQL                   885 hrs 19 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
 Python                690 hrs 17 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 Java                  323 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %

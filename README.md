@@ -55,9 +55,9 @@ Let's connect! -->
 ```txt
 From: 26 December 2021 - To: 21 May 2026
 
-Total Time: 11,480 hrs 8 mins
+Total Time: 11,481 hrs 13 mins
 
-Go                    4,910 hrs 1 min       ██████████▓░░░░░░░░░░░░░░   42.77 %
+Go                    4,911 hrs 6 mins      ██████████▓░░░░░░░░░░░░░░   42.78 %
 TypeScript            1,510 hrs 40 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
 SQL                   1,206 hrs 41 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
 Python                698 hrs 18 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %

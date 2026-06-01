@@ -53,15 +53,15 @@ Let's connect! -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2021 - To: 31 May 2026
+From: 26 December 2021 - To: 01 June 2026
 
-Total Time: 11,537 hrs 57 mins
+Total Time: 11,539 hrs 31 mins
 
-Go                    4,936 hrs 53 mins     ██████████▓░░░░░░░░░░░░░░   42.79 %
+Go                    4,936 hrs 53 mins     ██████████▓░░░░░░░░░░░░░░   42.78 %
 TypeScript            1,510 hrs 47 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
 SQL                   1,210 hrs 33 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 Python                698 hrs 18 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Markdown              660 hrs 20 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Markdown              661 hrs 54 mins       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 Other                 433 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 JavaScript            336 hrs 44 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 Java                  323 hrs 16 mins       ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %

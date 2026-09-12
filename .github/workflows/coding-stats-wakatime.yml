@@ -30,5 +30,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: True
           SHOW_COMMIT: False
           SECTION_NAME: waka
-          TIME_RANGE: all_time
 

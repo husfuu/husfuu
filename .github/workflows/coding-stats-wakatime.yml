@@ -6,6 +6,9 @@ on:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update this repo's README
@@ -14,7 +17,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
           SHOW_EDITORS: True
           SHOW_OS: True
           SHOW_LANGUAGE: True
@@ -30,4 +33,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: True
           SHOW_COMMIT: False
           SECTION_NAME: waka
-
